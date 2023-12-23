@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hello, I'm Shaan Manchanda, a third-year B.Tech Computer Science student at Graphic Era University (@GEU) in India. My programming journey has equipped me with proficiency in Java, Python, and C++, and I am deeply passionate about the realms of Machine Learning and Data Science. I am fascinated by the potential of technology to solve complex problems and am dedicated to exploring innovative solutions in these fields. Beyond coding, I actively contribute to open-source projects and stay abreast of the latest advancements in AI. Let's connect and explore the exciting intersection of coding and cutting-edge technology! 🚀
+<br>Hello, I'm Shaan Manchanda, a third-year B.Tech Computer Science student at Graphic Era University (@GEU) in India. My programming journey has equipped me with proficiency in Java, Python, and C++, and I am deeply passionate about the realms of Machine Learning and Data Science. I am fascinated by the potential of technology to solve complex problems and am dedicated to exploring innovative solutions in these fields. Let's connect and explore the exciting intersection of coding and cutting-edge technology! 🚀
 
 
 ## 🌐 Socials:
